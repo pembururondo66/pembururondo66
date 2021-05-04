@@ -38,6 +38,12 @@ def jalan(z):
         
 def banner():      
      os.system('echo -e "             __BERBURU21__" | lolcat')
-        
-        
-        
+                
+idmem = []
+idfriend = []
+idfromfriend = []
+back = 0
+cekrek = []
+threads = []
+
+
